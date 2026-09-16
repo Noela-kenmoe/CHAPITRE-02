@@ -3,7 +3,7 @@
 int main (){
     int tab[5];
     int i;
-    float som , mo ;
+    float som , mn ;
      for (i=1 ; i<5 ; i++){
         std::cout<<"entrer la note numero" << i << ":";
         std::cin>> tab[i];
