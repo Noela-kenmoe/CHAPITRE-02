@@ -4,6 +4,7 @@ int main(){
   int i,nbm;
   float moy, som, nom=1 ;
   float T[10] ;
+  int age;
   
     for (i=0 ; i<10 ; i++)
       {std::cout<<"donnez la note numéro"<<i++<<":"<<std::endl;
@@ -20,6 +21,7 @@ int main(){
       }
       std::cout<<"le nom est :"<< nom;
       std::cout<<"veiller entre votre nom";
+      std::cout<<"votre age est :"<< age;
  return 0;
 
 }
