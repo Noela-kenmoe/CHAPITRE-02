@@ -19,6 +19,7 @@ int main(){
          std::cout<<nbm<<"eleves ont plus de cette moyenne "<<std::endl;
       }
       std::cout<<"le nom est :"<< nom;
+      std::cout<<"veiller entre votre nom";
  return 0;
 
 }
