@@ -22,7 +22,7 @@ int main ()
     std::cout<<"entrer les coordonnees du second vecteur :\n";
     std::cin>>s.a>>s.b;
     addvect(Ns, s);
-    std::cout<<"la somme totale de ces deux vecteurs est :"<<"("<<Ns->a<<","<<Ns->b<<")";
+    std::cout<<"la somme de ces deux vecteurs est :"<<"("<<Ns->a<<","<<Ns->b<<")";
      return 0;
 }
 float addvect( vecteur* Ns , vecteur Vs)
