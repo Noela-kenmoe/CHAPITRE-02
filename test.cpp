@@ -2,7 +2,7 @@
 
 int main(){
   int i,nbm;
-  float moy, som ;
+  float moy, som, nom=1 ;
   float T[10] ;
   
     for (i=0 ; i<10 ; i++)
